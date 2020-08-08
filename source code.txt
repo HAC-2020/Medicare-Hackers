@@ -1,0 +1,242 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	<link rel="pingback" href="http://vasudha-lifeline.ezyro.com/xmlrpc.php" />
+	
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+	<title>VASUDHA LIFE LINE &#8211; There is no value of money in front of life&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;.</title>
+<script data-cfasync='false'>
+    window.$crisp=[];
+    CRISP_RUNTIME_CONFIG = {
+      locale : 'en'
+    };
+    CRISP_WEBSITE_ID = '81b9ccf1-017d-423c-9788-64d7b3024e2a';(function(){
+      d=document;s=d.createElement('script');
+      s.src='https://client.crisp.chat/l.js';
+      s.async=1;d.getElementsByTagName('head')[0].appendChild(s);
+    })();$crisp.push(["set", "user:email", "shubhammishra1599@gmail.com"]);$crisp.push(["set", "user:nickname", "shubhammishra1599"]);</script><link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="VASUDHA LIFE LINE &raquo; Feed" href="http://vasudha-lifeline.ezyro.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="VASUDHA LIFE LINE &raquo; Comments Feed" href="http://vasudha-lifeline.ezyro.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/vasudha-lifeline.ezyro.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='dashicons-css'  href='http://vasudha-lifeline.ezyro.com/wp-includes/css/dashicons.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='http://vasudha-lifeline.ezyro.com/wp-includes/css/admin-bar.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='maxagency-bootstrap-css'  href='http://vasudha-lifeline.ezyro.com/wp-content/themes/maxagency-ex/css/bootstrap/bootstrap.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://vasudha-lifeline.ezyro.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://vasudha-lifeline.ezyro.com/wp-content/plugins/theme-my-login/assets/styles/theme-my-login.min.css?ver=7.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl.carousel-css'  href='http://vasudha-lifeline.ezyro.com/wp-content/themes/maxagency-ex/css/owl.carousel.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='owl.theme-css'  href='http://vasudha-lifeline.ezyro.com/wp-content/themes/maxagency-ex/css/owl.theme.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='customizer-style-css'  href='http://vasudha-lifeline.ezyro.com/wp-content/themes/maxagency-ex/style.css?ver=5.4.2' type='text/css' media='all' />
+<style id='customizer-style-inline-css' type='text/css'>
+.banner-button, button, input[type="submit"], input[type="button"], input[type="reset"], .to-top, #site-navigation .sub-menu li:hover > a, .site-header.float-header  { background-color: #6220d9 }a, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, button:hover, input[type="submit"]:hover, input[type="button"]:hover, input[type="reset"]:hover, .to-top:hover, .special .meta-post .fa, .hentry .meta-post a:hover, .special h2.title-post a:hover, .widget-section .widgettitle, .default-testimonials .client-info .client .client-name, .type-team.type-b .team-social li a, .type-team .team-content .name, .other-header .entry-title { color: #6220d9 }.banner-button, input[type="text"]:focus, input[type="email"]:focus, textarea:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="tel"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, input[type="url"]:focus, input[type="search"]:focus, input[type="color"]:focus, button, input[type="button"], input[type="reset"], input[type="submit"], .divider-separator, .type-team.type-b .team-social li a { border-color: #6220d9 } .site-title a, .site-title a:hover, #site-navigation ul li a:hover, #site-navigation ul li a:hover { color: #d1d1d1; } .site-description { color: #fcfcfc; } .header-background { background: url(http://vasudha-lifeline.ezyro.com/wp-content/uploads/2020/08/hospital-header-scaled.jpg); background-size: cover; background-position: center right; height: 650px; }.page-wrap { padding-top: 63px; padding-bottom: 0px; }body { color:#8e88aa}body { background-color: #ffffff}
+</style>
+<link rel='stylesheet' id='style-css'  href='http://vasudha-lifeline.ezyro.com/wp-content/themes/maxagency-ex/css/style.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='maxagency-font-awesome-css'  href='http://vasudha-lifeline.ezyro.com/wp-content/themes/maxagency-ex/fonts/font-awesome.min.css?ver=5.4.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://vasudha-lifeline.ezyro.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://vasudha-lifeline.ezyro.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://vasudha-lifeline.ezyro.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://vasudha-lifeline.ezyro.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://vasudha-lifeline.ezyro.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+	<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+	<link rel="icon" href="http://vasudha-lifeline.ezyro.com/wp-content/uploads/2020/08/SGKDCKJBSAFBVBFS-150x150.png" sizes="32x32" />
+<link rel="icon" href="http://vasudha-lifeline.ezyro.com/wp-content/uploads/2020/08/SGKDCKJBSAFBVBFS.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://vasudha-lifeline.ezyro.com/wp-content/uploads/2020/08/SGKDCKJBSAFBVBFS.png" />
+<meta name="msapplication-TileImage" content="http://vasudha-lifeline.ezyro.com/wp-content/uploads/2020/08/SGKDCKJBSAFBVBFS.png" />
+  </head>
+
+  <body class="home blog logged-in admin-bar no-customize-support">
+  
+    		
+    <header id="masthead"  class="site-header  float-header" role="banner">
+		<div class="head-wrap banner-background">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 col-sm-6 col-xs-12">
+													<h1 class="site-title"><a href="http://vasudha-lifeline.ezyro.com/" rel="home">VASUDHA LIFE LINE</a></h1>
+							<h5 class="site-description">There is no value of money in front of life&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;.</h5>	        
+											</div>
+					<div class="col-md-8 col-sm-6 col-xs-12">
+						<div class="btn-menu"></div>
+						<nav id="site-navigation" class="site-navigation" role="navigation">
+							<div class="menu"><ul>
+<li class="page_item page-item-70"><a href="http://vasudha-lifeline.ezyro.com/about-us/">About us</a></li>
+<li class="page_item page-item-67"><a href="http://vasudha-lifeline.ezyro.com/contact-us/">Contact us</a></li>
+<li class="page_item page-item-82"><a href="http://vasudha-lifeline.ezyro.com/log-in/">Log In</a></li>
+<li class="page_item page-item-80"><a href="http://vasudha-lifeline.ezyro.com/register/">Register</a></li>
+</ul></div>
+						</nav><!-- #site-navigation -->
+					</div>
+				</div>
+			</div>
+		</div>
+    </header>
+	
+		
+	<div class="agency-banner-area">
+						
+	<div class="header-background background-wave style1">
+		<div class="header-content">
+			<div class="container">
+				<div class="row align-center">
+				<div class="col-md-7 col-lg-8 ">
+						<div class="banner-text-content" >
+							<h5 class="bg-maintitle"></h5>
+							<h1 class="bg-subtitle"> VASUDHA LIFELINE</h1>
+							<p class="bg-subpera">   We try to save life on ...................</p>
+																				</div>
+					</div>
+										<div class="col-md-5 col-lg-3 ">
+						<div class="background_image_right">
+							<img class="front_img" src="http://vasudha-lifeline.ezyro.com/wp-content/uploads/2020/08/SGKDCKJBSAFBVBFS.png" alt="Banner Image">
+						</div>
+					</div>
+									</div>	
+			</div>	
+		</div>
+	</div> 
+	
+				</div>
+	
+	<div id="content" class="page-wrap">
+		<div class="content-wrapper">
+			<div class="container">
+<div class="row">
+	<div id="primary" class="content-area col-md-9 default">
+		<main id="main" class="blog-main post-wrap" role="main">
+
+		
+		<div class="posts-layout">
+			
+				
+<article id="post-84" class="post-84 post type-post status-publish format-standard hentry category-uncategorized" >
+
+	<div class="blog-post">
+	
+		<div class="entry-thumb">
+				<a href="http://vasudha-lifeline.ezyro.com/2020/08/08/deth-in-india-due-to-not-reach-the-hospital/" title="Dead in India due to not reach the hospital"></a>
+		</div>
+		
+		<header class="entry-header">
+			<h2 class="title-post entry-title"><a href="http://vasudha-lifeline.ezyro.com/2020/08/08/deth-in-india-due-to-not-reach-the-hospital/" rel="bookmark">Dead in India due to not reach the hospital</a></h2>			<p class="meta-post"> <span class="posted-on"><i class="fa fa-calendar"></i><a href="http://vasudha-lifeline.ezyro.com/2020/08/08/deth-in-india-due-to-not-reach-the-hospital/" rel="bookmark"><time class="entry-date published" datetime="2020-08-08T18:33:26+00:00">August 8, 2020</time><time class="updated" datetime="2020-08-08T19:00:29+00:00">August 8, 2020</time></a></span><span class="byline"> <i class="fa fa-user"></i><span class="author vcard"><a class="url fn n" href="http://vasudha-lifeline.ezyro.com/author/shubhammishra1599/">shubhammishra1599</a></span></span><span class="blog-category"><i class="fa fa-list"></i><span class="blog-category-url"><a href="http://vasudha-lifeline.ezyro.com/category/uncategorized/">Uncategorized</a></span></span><span class="edit-link"><a class="post-edit-link" href="http://vasudha-lifeline.ezyro.com/wp-admin/post.php?post=84&#038;action=edit"><i class="fa fa-edit"></i>Edit<span class="screen-reader-text"> "Dead in India due to not reach the hospital"</span></a></span> </p>
+		</header>
+		
+		<div class="entry-post">
+							<p>“Though there are thousands of community medical centres across the country, many of these don’t have facilities to do minor surgeries which will save a person’s life. For example, a person with appendicitis may require an emergency surgery but due to lack of access to proper hospital, he would have been allowed to die,” said &#8230;.&nbsp;&nbsp;<a class=" default" href="http://vasudha-lifeline.ezyro.com/2020/08/08/deth-in-india-due-to-not-reach-the-hospital/">Read More</a></p>
+								</div>
+
+	</div>
+	
+</article><!-- /article -->
+					</div>
+
+			
+
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+<div id="twx-sidebar" class="col-md-3 blog-sidebar widget-section">
+	<li id="search-2" class="widget widget_search">
+
+<form role="search" method="get" class="searchform" action="http://vasudha-lifeline.ezyro.com/">
+    <div>
+        <input id="search-form-5f2f00376b9a1" class="app_search" type="text" value="" name="s" class="search-field" placeholder="Enter Keywords Here.." />
+        <input type="submit" class="search-submit" value="Search" />
+    </div>
+</form></li></div></div>
+</div><!-- /.row -->
+</div><!-- /.container -->
+</div><!-- /.content-wrapper -->
+</div><!-- /.page-wrap -->
+	
+	
+<div class="footer-widgets">
+	<div class="container">
+		<div class="widget-column col-sm-4">
+					</div>
+		<div class="widget-column col-sm-4">
+					</div>
+		<div class="widget-column col-sm-4">
+					</div>
+	</div>
+</div>    <footer class="site-footer">
+		<div class="site-copyright container">
+							<span><a href="http://a2themes.com/details/corporate/maxagency-ex" rel="designer">&copy; Maxagency Theme</a></span>
+						<div class="to-top">
+				<i class="fa fa-angle-up"></i>
+			</div>
+		</div>
+    </footer><!-- /.site-footer -->
+	
+	<script type='text/javascript' src='http://vasudha-lifeline.ezyro.com/wp-includes/js/hoverintent-js.min.js?ver=2.2.1'></script>
+<script type='text/javascript' src='http://vasudha-lifeline.ezyro.com/wp-includes/js/admin-bar.min.js?ver=5.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var themeMyLogin = {"action":"","errors":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://vasudha-lifeline.ezyro.com/wp-content/plugins/theme-my-login/assets/scripts/theme-my-login.min.js?ver=7.1.1'></script>
+<script type='text/javascript' src='http://vasudha-lifeline.ezyro.com/wp-content/themes/maxagency-ex/js/common.js?ver=20180213'></script>
+<script type='text/javascript' src='http://vasudha-lifeline.ezyro.com/wp-content/themes/maxagency-ex/js/owl.carousel.min.js?ver=20180213'></script>
+<script type='text/javascript' src='http://vasudha-lifeline.ezyro.com/wp-content/themes/maxagency-ex/js/wow/wow.min.js?ver=20180213'></script>
+<script type='text/javascript' src='http://vasudha-lifeline.ezyro.com/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+	<!--[if lte IE 8]>
+		<script type="text/javascript">
+			document.body.className = document.body.className.replace( /(^|\s)(no-)?customize-support(?=\s|$)/, '' ) + ' no-customize-support';
+		</script>
+	<![endif]-->
+	<!--[if gte IE 9]><!-->
+		<script type="text/javascript">
+			(function() {
+				var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+						request = true;
+		
+				b[c] = b[c].replace( rcs, ' ' );
+				// The customizer requires postMessage and CORS (if the site is cross domain).
+				b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+			}());
+		</script>
+	<!--<![endif]-->
+			<div id="wpadminbar" class="nojq nojs">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
+				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://vasudha-lifeline.ezyro.com/wp-admin/about.php'><span class="ab-icon"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='http://vasudha-lifeline.ezyro.com/wp-admin/about.php'>About WordPress</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://codex.wordpress.org/'>Documentation</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://wordpress.org/support/'>Support</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li></ul></div></li><li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://vasudha-lifeline.ezyro.com/wp-admin/'>VASUDHA LIFE LINE</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-site-name-default' class="ab-submenu"><li id='wp-admin-bar-dashboard'><a class='ab-item' href='http://vasudha-lifeline.ezyro.com/wp-admin/'>Dashboard</a></li></ul><ul id='wp-admin-bar-appearance' class="ab-submenu"><li id='wp-admin-bar-themes'><a class='ab-item' href='http://vasudha-lifeline.ezyro.com/wp-admin/themes.php'>Themes</a></li><li id='wp-admin-bar-widgets'><a class='ab-item' href='http://vasudha-lifeline.ezyro.com/wp-admin/widgets.php'>Widgets</a></li><li id='wp-admin-bar-menus'><a class='ab-item' href='http://vasudha-lifeline.ezyro.com/wp-admin/nav-menus.php'>Menus</a></li><li id='wp-admin-bar-background' class="hide-if-customize"><a class='ab-item' href='http://vasudha-lifeline.ezyro.com/wp-admin/themes.php?page=custom-background'>Background</a></li><li id='wp-admin-bar-header' class="hide-if-customize"><a class='ab-item' href='http://vasudha-lifeline.ezyro.com/wp-admin/themes.php?page=custom-header'>Header</a></li></ul></div></li><li id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' href='http://vasudha-lifeline.ezyro.com/wp-admin/customize.php?url=http%3A%2F%2Fvasudha-lifeline.ezyro.com%2F'>Customize</a></li><li id='wp-admin-bar-updates'><a class='ab-item' href='http://vasudha-lifeline.ezyro.com/wp-admin/update-core.php' title='1 Plugin Update, 2 Theme Updates'><span class="ab-icon"></span><span class="ab-label">3</span><span class="screen-reader-text">1 Plugin Update, 2 Theme Updates</span></a></li><li id='wp-admin-bar-comments'><a class='ab-item' href='http://vasudha-lifeline.ezyro.com/wp-admin/edit-comments.php'><span class="ab-icon"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 Comments in moderation</span></a></li><li id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://vasudha-lifeline.ezyro.com/wp-admin/post-new.php'><span class="ab-icon"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-new-content-default' class="ab-submenu"><li id='wp-admin-bar-new-post'><a class='ab-item' href='http://vasudha-lifeline.ezyro.com/wp-admin/post-new.php'>Post</a></li><li id='wp-admin-bar-new-media'><a class='ab-item' href='http://vasudha-lifeline.ezyro.com/wp-admin/media-new.php'>Media</a></li><li id='wp-admin-bar-new-page'><a class='ab-item' href='http://vasudha-lifeline.ezyro.com/wp-admin/post-new.php?post_type=page'>Page</a></li><li id='wp-admin-bar-new-user'><a class='ab-item' href='http://vasudha-lifeline.ezyro.com/wp-admin/user-new.php'>User</a></li></ul></div></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="http://vasudha-lifeline.ezyro.com/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search"/></form></div></li><li id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' aria-haspopup="true" href='http://vasudha-lifeline.ezyro.com/wp-admin/profile.php'>Howdy, <span class="display-name">shubhammishra1599</span><img alt='' src='http://2.gravatar.com/avatar/8ecbc8ca3b54c123056fb97ed696ca7e?s=26&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/8ecbc8ca3b54c123056fb97ed696ca7e?s=52&#038;d=mm&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' /></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-user-actions' class="ab-submenu"><li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='http://vasudha-lifeline.ezyro.com/wp-admin/profile.php'><img alt='' src='http://2.gravatar.com/avatar/8ecbc8ca3b54c123056fb97ed696ca7e?s=64&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/8ecbc8ca3b54c123056fb97ed696ca7e?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' /><span class='display-name'>shubhammishra1599</span></a></li><li id='wp-admin-bar-edit-profile'><a class='ab-item' href='http://vasudha-lifeline.ezyro.com/wp-admin/profile.php'>Edit My Profile</a></li><li id='wp-admin-bar-logout'><a class='ab-item' href='http://vasudha-lifeline.ezyro.com/logout/?_wpnonce=79858ca68d'>Log Out</a></li></ul></div></li></ul>			</div>
+						<a class="screen-reader-shortcut" href="http://vasudha-lifeline.ezyro.com/logout/?_wpnonce=79858ca68d">Log Out</a>
+					</div>
+
+		 
+  </body>
+</html>
